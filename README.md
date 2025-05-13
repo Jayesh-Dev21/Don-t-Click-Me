@@ -1,3 +1,3 @@
 # Every Click Counts 👆
 
-![GIF image](static/_images/gIf.png)
+![GIF image](static/_images/gIf.gif)
