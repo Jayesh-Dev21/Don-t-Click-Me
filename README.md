@@ -96,7 +96,7 @@ Follow the steps below to create a standalone executable for your platform using
 
    like
    ```bash
-   pyinstaller --onefile --name Don't_Click --icon=icons/noClick.icns --add-data "animation.gif:." --hidden-import=PIL._tkinter_finder process.py
+   pyinstaller --onefile --name Clicks --icon=icons/noClick.icns --add-data "animation.gif:." --hidden-import=PIL._tkinter_finder process.py
    ```
 
    use: and the end of the path to your additional data, refer to the installation for Linux to know more.
@@ -130,7 +130,7 @@ Follow the steps below to create a standalone executable for your platform using
 
    like
    ```cmd
-   pyinstaller --onefile --name Don't_Click --icon=icons/noClick.ico --add-data "animation.gif;." --hidden-import=PIL._tkinter_finder process.py
+   pyinstaller --onefile --name clicks --icon=icons/noClick.ico --add-data "animation.gif;." --hidden-import=PIL._tkinter_finder process.py
    ```
 
 4. The standalone executable will be located in the `dist` folder.
@@ -155,13 +155,13 @@ Follow the steps below to create a standalone executable for your platform using
 
 3. Create a standalone executable:
    ```bash
-   pyinstaller --onefile --add-data "path_to_data" --hidden-import=PIL._tkinter_finder path_to_script.py
+   pyinstaller --onefile --name YourAppName --add-data "path_to_data" --hidden-import=PIL._tkinter_finder path_to_script.py
    ```
    For Windows use, instead of : and add the location of your images, GIFS, vids here.
 
    like
    ```bash
-   pyinstaller --onefile --add-data "animation.gif:." --hidden-import=PIL._tkinter_finder process.py
+   pyinstaller --onefile --name clicks --add-data "animation.gif:." --hidden-import=PIL._tkinter_finder process.py
    ```
 
 4. The standalone executable will be located in the `dist` folder.
