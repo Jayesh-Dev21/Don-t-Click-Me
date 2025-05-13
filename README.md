@@ -11,6 +11,7 @@
 ---
 
 ## Table of Contents
+- [Builds](#builds)
 - [Requirements](#requirements)
 - [Setting Up a Virtual Environment](#setting-up-a-virtual-environment)
 - [Installation Guide](#installation-guide)
@@ -25,7 +26,24 @@
 - [License](#license)
 
 ---
+## Builds:
+```
+Install the ELF for Linux:
+```
+From Here:- [Linux ELF](https://www.dropbox.com/scl/fi/smxp8sif4muocxmjy921b/clicks?rlkey=ekjlmxhn9pkgtvqo2357i9pux&st=69n4eddc&dl=0)
 
+```
+Install the EXE for Windows:
+```
+From Here:- [Windows EXE]()
+
+```
+Install the .App for MacOs:
+```
+From Here:- [MacOs .App]()
+
+
+---
 ## Requirements
 Before you begin, ensure you have the following installed:
 - Python 3.7 or higher
