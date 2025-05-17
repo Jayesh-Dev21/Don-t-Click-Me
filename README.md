@@ -95,7 +95,7 @@ Follow the steps below to create a standalone executable for your platform using
 
 ---
 
-### macOS
+### MacOS
 1. Activate the virtual environment (if you haven’t already):
    ```bash
    source venv/bin/activate
