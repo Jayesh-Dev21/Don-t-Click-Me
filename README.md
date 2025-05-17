@@ -15,7 +15,7 @@
 - [Requirements](#requirements)
 - [Setting Up a Virtual Environment](#setting-up-a-virtual-environment)
 - [Installation Guide](#installation-guide)
-  - [MacOS](#macos)
+  - [macOS](#macos)
   - [Windows](#windows)
   - [Linux](#linux)
 - [Dependency Management](#dependency-management)
@@ -40,7 +40,7 @@ From Here:- [Windows EXE]()
 ```
 Install the .App for MacOs:
 ```
-From Here:- [MacOs .App]()
+From Here:- [macOS .App]()
 
 
 ---
@@ -95,7 +95,7 @@ Follow the steps below to create a standalone executable for your platform using
 
 ---
 
-### MacOS
+### macOS
 1. Activate the virtual environment (if you haven’t already):
    ```bash
    source venv/bin/activate
