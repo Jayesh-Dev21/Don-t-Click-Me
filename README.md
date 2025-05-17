@@ -212,7 +212,7 @@ To manage dependencies:
 - **Purpose**: Provides a graphical user interface (GUI) for the application.
 - **Details**: `tkinter` comes pre-installed with Python, so no additional installation is required.
 
-### `pyarmor` (Optional)
+### `pyarmor`
 - **Purpose**: Used for obfuscating Python scripts for added security, ensuring the source code is harder to reverse-engineer.
 - **Installation**:
   ```bash
